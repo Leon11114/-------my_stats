@@ -56,4 +56,4 @@ def quantil_raz(p):
   return s
 
 def delete():
-  print("delete")
+  print("don't delete pls")
