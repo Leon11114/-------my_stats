@@ -54,3 +54,6 @@ def quantil_raz(p):
     if i>q[0] and i < q[2]:
       s.append(i)
   return s
+
+def delete():
+  print("delete")
